@@ -61,40 +61,8 @@ spotify-clone/
 
 ---
 
-## ⚙️ How to Run
 
-1. Clone or download the repo
-2. Open `index.html` in any browser
-3. No installation needed!
 
-```bash
-git clone https://github.com/your-username/spotify-clone.git
-cd spotify-clone
-# just open index.html in browser
-```
 
----
 
-## 📸 Screenshots
 
-*(add screenshots here after taking them)*
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add actual audio playback using HTML5 Audio API
-- [ ] Connect to Spotify Web API for real data
-- [ ] Add search functionality
-- [ ] Dark/Light mode toggle
-- [ ] Create/manage playlists
-
----
-
-## 📝 License
-
-This project is for educational purposes only. Spotify and its logo are trademarks of Spotify AB.
-
----
-
-**Made with ❤️ as part of Web Technologies course project**
